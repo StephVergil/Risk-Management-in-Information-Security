@@ -139,4 +139,4 @@ Organizations use five primary strategies to manage risks:
 5. **Purpose of SLA in Risk Transference:**
    - Defines acceptable service levels and ensures accountability when outsourcing.
 
-   Link to PowerPoint: [Azure Cloud Presentation](https://github.com/StephVergil/Risk-Management-in-Information-Security_Presentation/blob/main/Risk_Management_InfoSec.pptx)
+   Link to PowerPoint: [Risk Management in Information Security Presentation](https://github.com/StephVergil/Risk-Management-in-Information-Security_Presentation/blob/main/Risk_Management_InfoSec.pptx)
